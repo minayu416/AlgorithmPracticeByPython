@@ -24,5 +24,4 @@ if __name__ == '__main__':
     ar = [1, 3, 2, 6, 1, 2]
     k = 3
     n = 6
-    result = divisibleSumPairs(n, k, ar)
-
+    divisibleSumPairs(n, k, ar)
